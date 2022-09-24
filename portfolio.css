@@ -1,0 +1,120 @@
+body {
+    background-color: grey;
+    text-align: center;
+    margin:0;
+}
+nav {
+    font-family: Arial;
+    font-size: 1.5rem;
+    color: white;
+}
+.user-profile {
+    position: relative;
+}
+.headline {
+    padding: 20px;
+    background-color: black;
+    margin: 0;
+}
+.name {
+    margin: 0;
+    text-align: left;
+    color: white;
+ }
+.pages {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+#container {
+    background-color:  #D9D9D6;
+    margin: 0 10%;
+    height:200vh;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+.project1 {
+    background-color: whitesmoke;
+    height: 300px;
+    border-radius: 1%;
+    box-shadow: 10px 10px 10px grey;
+}
+.submarine {
+    font-family: Arial;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+.Toledo {
+    float: right;
+    height: 300px;
+    width: 550px;
+    border-radius: 1%;
+}
+.list1 {
+    font-family: Arial; 
+    font-size: 1rem;
+}
+
+
+.project2 {
+    background-color: whitesmoke;
+    height: 300px;
+    border-radius: 1%;
+    box-shadow: 10px 10px 10px grey;
+}
+.homepage {
+    font-family: Arial;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+.frontpage {
+    float: right;
+    height: 300px;
+    width: 550px;
+    border-radius: 1%;
+}
+.list1 {
+    font-family: Arial; 
+    font-size: 1rem;
+}
+
+.project3 {
+    background-color: whitesmoke;
+    height: 300px;
+    border-radius: 1%;
+    box-shadow: 10px 10px 10px grey;
+}
+.homepage3 {
+    font-family: Arial;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+.p3 {
+    float: right;
+    height: 300px;
+    width: 550px;
+    border-radius: 1%;
+}
+
+.project4 {
+    background-color: whitesmoke;
+    height: 300px;
+    border-radius: 1%;
+    box-shadow: 10px 10px 10px grey;
+}
+.homepage4 {
+    font-family: Arial;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+.p4 {
+    float: right;
+    height: 300px;
+    width: 550px;
+    border-radius: 1%;
+}

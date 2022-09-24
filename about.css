@@ -1,0 +1,86 @@
+body {
+    background-color: grey;
+    margin: 0;
+}
+.h1 {
+    text-align: left;
+    font-family:serif;
+    font-size: 2rem;
+    color: white;
+    margin: 0;
+}
+nav {
+    font-family: Arial;
+    font-size: 1.5rem;
+}
+.user-profile {
+    position: relative;
+}
+.pages {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.headline {
+    padding: 20px;
+    background-color: black;
+    margin: 0;
+}
+#container {
+    background-color:  #D9D9D6;
+    margin: 0 10%;
+    height: 225vh;
+    padding: 0.5rem;
+}
+.h2 {
+    text-align: center;
+    font-family: Arial;
+    font-size: 2rem;
+    border-color: black;
+    border-top: 2px solid;
+    border-bottom: 1px solid;
+}
+.h3 {
+    font-family: arial;
+    font-size: 1.25rem;
+}
+.hiking1 {
+    margin: 1rem 1rem 1rem 75px;
+}
+.hiking2 {
+    margin: 1rem;
+}
+.hiking3{
+    height: 242px;  
+    margin: 1rem;
+}
+.snow1 {
+    height: 242px; 
+    margin: 0.5rem 0.5rem 0.5rem 10px;
+}
+.snow2 {
+    height: 242px; 
+    margin: 0.5rem;
+}
+.snow3{
+    height: 242px; 
+    margin: 0.5rem;
+}
+
+
+.hr1 {
+    height: 242px;
+    margin: 6px 0px 6px 0px;
+}
+.hr2 {
+    height: 242px;
+    margin: 6px 0px 6px 0px;
+}
+.hr3{
+    height: 242px; 
+    margin: 6px 0px 6px 3px; 
+}
+.hr4{
+    height: 242px;  
+    margin: 6px 0px 6px 0px;
+}

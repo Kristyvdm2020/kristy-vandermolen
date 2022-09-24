@@ -1,0 +1,49 @@
+body {
+    background-color: grey;
+    text-align: center;
+    margin:0;
+}
+nav {
+    font-family: Arial;
+    font-size: 1.5rem;
+    color: white;
+}
+.user-profile {
+    position: relative;
+}
+.headline {
+    padding: 20px;
+    background-color: black;
+    margin: 0;
+}
+.name {
+    margin: 0;
+    text-align: left;
+    color: white;
+ }
+.pages {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.descriptors {
+    margin: 0;
+    font-family: arial;
+    border-color: black;
+    border-bottom: 1px solid;
+}
+.quote {
+    font-family: arial;
+    margin: 1%;
+}
+#container {
+    background-color:  #D9D9D6;
+    margin: 0 10%;
+    height:100vh;
+    padding: 0.5rem;
+}
+.me {
+    position: relative;
+    height: 550px;
+    width: 1000px;
+}
